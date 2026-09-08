@@ -26,7 +26,7 @@ Sensibilisation RGPD, gestion d'incidents de production, remédiation de failles
  
 ## 🚀 Projets en avant
  
-### [CRI-Novadis](https://github.com/Gartalgart/CRI-Novadis) *(à renommer selon ton dépôt réel)*
+### [CRI-Novadis](https://github.com/Gartalgart/CRI-Novadis) 
 Application de digitalisation des comptes-rendus d'intervention : API **ASP.NET Core** + application mobile **Flutter**. Déployée en production sur VPS (Docker, Cloudflare Tunnel), avec gestion d'incidents et supervision (UptimeRobot).
  
 ### E-commerce climatiseurs & ventilateurs
