@@ -11,7 +11,7 @@ En parallèle, je développe et déploie mes propres projets en autonomie compl�
 ## 🔧 Stack technique
  
 **Backend & langages**
-`C#` `ASP.NET Core` `PostgreSQL` `Python` `C` (École 42)
+`C#` `ASP.NET Core` `PostgreSQL` `Python` `C` 
  
 **Frontend & mobile**
 `Flutter / Dart` `Next.js` `TypeScript` `Tailwind CSS`
