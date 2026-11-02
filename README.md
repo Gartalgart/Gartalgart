@@ -24,22 +24,6 @@ Sensibilisation RGPD, gestion d'incidents de production, remédiation de failles
  
 ---
  
-## 🚀 Projets en avant
- 
-### [CRI-Novadis](https://github.com/Gartalgart/CRI-Novadis) 
-Application de digitalisation des comptes-rendus d'intervention : API **ASP.NET Core** + application mobile **Flutter**. Déployée en production sur VPS (Docker, Cloudflare Tunnel), avec gestion d'incidents et supervision (UptimeRobot).
- 
-### E-commerce climatiseurs & ventilateurs
-Site e-commerce complet : **Next.js 15**, **Medusa.js**, PostgreSQL, Redis, Stripe, Docker. Modèles 3D produits (Three.js).
- 
-### Portfolio freelance
-**Next.js 15**, GSAP, Framer Motion, Three.js, Tailwind v4 — hero vidéo scroll-scrubbed. Projets clients livrés : site PME sécurité incendie, site PME couverture/toiture.
- 
-### [cours_prepa_42](https://github.com/Gartalgart/cours_prepa_42)
-Site de cours documentant l'intégralité de la norme de code École 42 (MkDocs Material), réalisé en préparation de la piscine 42 Paris.
- 
----
- 
 ## 📍 Par ailleurs
  
 - 🎓 Major de promotion en 1ère année de BTS CIEL, délégué de classe
